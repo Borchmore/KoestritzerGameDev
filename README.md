@@ -5,7 +5,10 @@ All files and whatnot will be posted here.
 Try to communicate your changes with the other members of the team.
 If possible, be on the IRC (rizon.net/chat #KoestritzerGameDev) while making changes.
 I'll try to update the GitHub as much as possible.
-Penis.
+
+Game status:
+Current engine: GameMaker 8 Pro
+Development stage: lol, it's a walking simulator
 
 Update 1:
 Made the GitHub, uploaded the files (including a prototype complete with real live walking mechanics!).
