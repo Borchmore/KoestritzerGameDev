@@ -11,7 +11,3 @@ Update 1:
 Made the GitHub, uploaded the files (including a prototype complete with real live walking mechanics!).
 I'm trying to use GML code instead of the GameMaker scripts because it makes more sense to me and it's more versatile.
 Try to clean up my code; I'm pretty rusty and don't have the experience you guys have.
-<<<<<<< HEAD
-=======
-Penis.
->>>>>>> origin/master
