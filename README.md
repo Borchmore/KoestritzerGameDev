@@ -28,3 +28,11 @@ I don't know if you guys would rather have keep everything grouped tightly toget
 Also, I don't know if you'd rather have me make the movement and shooting mechanics into seperate scripts (kind of like methods) that I call in Link's step event (where almost the entirity of the code currently is).
 Feel free to take a look at it and let me know what you think.
 If Roman Reigns wins the WWE Championship at Survivor Series, I am going to be VERY angry.
+
+
+Update 3. 11/25/15:
+As indicated by my previous post, I am angry, and therefore had to take a two day break from programming. 
+Anyways, I started today with the enemy AI. 
+I am working on the movement right now, and should get to their attacks soonafter. 
+I have not uploaded the most recent build to GitHub, so any downloads will be from Sunday.
+:^)
