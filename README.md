@@ -45,3 +45,11 @@ Currently working on combat mechanics (ie knockback and death).
 For now the character will take unlimited damage and the enemies will die whenever they're hit; I plan on implementing the RPG elements like hit points, mana, and experience points later.
 Again, not uploading the newest build here because I don't feel the need to.
 If you want me to, just ask.
+
+Update 5, 11/28/15:
+I coded knockback as well as a (very basic) HP mechanic.
+I'm having problems with the collision detection on the enemies.
+They don't walk through each other, but when they're touching and I am standing directly to above or below them (or on either side, it depends on their formation) they stop moving.
+If someone could take a look at my code, I'd appreciate it.
+Anyways, I'm calling for an IRC chat tomorrow on Rizon to get you guys all up to date.
+Hope to see you there!
