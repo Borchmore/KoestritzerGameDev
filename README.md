@@ -53,3 +53,7 @@ They don't walk through each other, but when they're touching and I am standing 
 If someone could take a look at my code, I'd appreciate it.
 Anyways, I'm calling for an IRC chat tomorrow on Rizon to get you guys all up to date.
 Hope to see you there!
+
+Final update?, 11/12/17:
+I figured I'd update this before I forget. This project is pretty much dead, and I probably won't be revisiting it since I made such little progress and my code is so shit. Anyways, I have my Genesis code posted on here if you're interested in my current projects. I'm also making an RPG for the SNES using RPG Tsukuru 2, but won't be posting any of that here until I start hacking the ROM to make it a stand-alone game. Maybe I'll mess around with some of the emulators on GitHub too? I've already worked with SNES9xGx to get it to better suit my needs; I could make an SNES9xGx lite for those of you looking for an authentic SNES experience (no speedup mapped to the right stick, no extensive menu options, just the meat and potatoes). Chances are I'll be revisiting GameMaker (or maybe Unity) in the future, but for now I'm focusing on retro game development since that's more fun for me :^)
+I hope to see you all in the future as I move on to bigger and better projects :D
